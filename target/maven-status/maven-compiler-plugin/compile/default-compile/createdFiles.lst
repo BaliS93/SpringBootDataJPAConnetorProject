@@ -1,0 +1,5 @@
+com\JPA\Connect\Model\Product.class
+com\JPA\Connect\Repository\ProdectRepo.class
+com\JPA\Connect\Controller\ProductController.class
+com\JPA\Connect\SpringBootDataJPAConnectorProjectApplication.class
+com\JPA\Connect\Service\ProductService.class
